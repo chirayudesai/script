@@ -1,0 +1,9 @@
+# Update this file with every AOSP release
+
+declare -A buildids
+buildids[bullhead]="OPM3.171019.014"
+buildids[angler]="OPM3.171019.014"
+buildids[saiflish]="OPM1.171019.016"
+buildids[marlin]="OPM1.171019.016"
+buildids[walleye]="OPM1.171019.019"
+buildids[taimen]="OPM1.171019.018"

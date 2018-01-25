@@ -1,0 +1,6 @@
+# Use this file to set the serial numbers for your devices
+# Used with adb and fastboot to flash the correct device
+
+declare -A serials
+serials[marlin]=ABC
+serials[angler]=XYZ
